@@ -1,0 +1,13 @@
+
+    {
+        "userId": 1,
+        "barcode": 12345,
+        "devicename": "ماشین شستشو",
+        "brand": "xxxx",
+        "devicetype": "خشک کن",
+        "status": "خالی",
+        "health": "در حال کار",
+        "cicle":"3"
+    }
+  
+      
